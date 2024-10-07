@@ -19,10 +19,25 @@
     <input id="base" type="color" name="base" value="#ffc600">
   </div>
 
-  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
+  <img src="https://unsplash.it/800/500/?random" alt="random image" class="image">
 
   <style>
+    
+    :root {
+      background: var(--base);
+      filter: blur(var(--blur));
+      padding: var(--spacing);
+    }
 
+    .image {
+      padding: var(--spacing);
+      filter: blur(var(--blur));
+      background: var(--base)
+    }
+
+    .hl {
+      color: var(--base);
+    }
     /*
       misc styles, nothing to do with CSS variables
     */
@@ -44,8 +59,36 @@
       width: 100px;
     }
   </style>
-
   <script>
+    // get the inputs
+    const input = document.querySelectorAll('input');
+    const image = document.querySelector('.image');
+    const hl = document.querySelector('.hl');
+
+
+    // data-sizing attribute
+    input.forEach(input => {
+      input.dataset.sizing = input.getAttribute('data-sizing');
+    });
+    
+
+    // update the CSS variables
+    function update() {
+      input.forEach(input => {
+        input.addEventListener('input', update);
+      });
+      image.style.setProperty('--spacing', input[0].value + input[0].dataset.sizing);
+      image.style.setProperty('--blur', input[1].value + input[1].dataset.sizing);
+      image.style.setProperty('--base', input[2].value);
+      hl.style.setProperty('--base', input[2].value);
+      console.log(image.style.getPropertyValue('--spacing'));
+      console.log(image.style.getPropertyValue('--blur'));
+      console.log(image.style.getPropertyValue('--base'));
+      
+    }
+    update();
+    
+
   </script>
 
 </body>
