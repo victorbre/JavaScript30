@@ -12,7 +12,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 02 JS and CSS Clock
 - [x] 03 CSS Variables
 - [x] 04 Array Cardio Day 1
-- [ ] 05 Flex Panel Gallery
+- [x] 05 Flex Panel Gallery
+  - did not manage to do it without watching... Had some ideas but didn't manage.
 - [ ] 06 Type Ahead
 - [ ] 07 Array Cardio Day 2
 - [ ] 08 Fun with HTML5 Canvas
