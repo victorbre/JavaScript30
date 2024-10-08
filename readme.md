@@ -18,7 +18,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _great! but had to watch to keep up.. Not sure but the regex for the suggestions replace it with this.value with all caps if that was entered._
 - [x] 07 Array Cardio Day 2
   - _some(), every(), find() and findIndex() was easy. Not following 100% on the splice() and slice()._
-- [ ] 08 Fun with HTML5 Canvas
+- [x] 08 Fun with HTML5 Canvas
+  - _quite nice, sounds familiar from old game dev tutorials._
 - [ ] 09 Dev Tools Domination
 - [ ] 10 Hold Shift and Check Checkboxes
 - [ ] 11 Custom Video Player
