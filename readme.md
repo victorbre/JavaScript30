@@ -16,7 +16,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _did not manage to do it without watching... Had some ideas but didn't manage._
 - [x] 06 Type Ahead
   - _great! but had to watch to keep up.. Not sure but the regex for the suggestions replace it with this.value with all caps if that was entered._
-- [ ] 07 Array Cardio Day 2
+- [x] 07 Array Cardio Day 2
+  - _some(), every(), find() and findIndex() was easy. Not following 100% on the splice() and slice()._
 - [ ] 08 Fun with HTML5 Canvas
 - [ ] 09 Dev Tools Domination
 - [ ] 10 Hold Shift and Check Checkboxes
