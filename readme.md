@@ -20,7 +20,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _some(), every(), find() and findIndex() was easy. Not following 100% on the splice() and slice()._
 - [x] 08 Fun with HTML5 Canvas
   - _quite nice, sounds familiar from old game dev tutorials._
-- [ ] 09 Dev Tools Domination
+- [x] 09 Dev Tools Domination
+  - _Good stuff to know. Didn't know a lot._
 - [ ] 10 Hold Shift and Check Checkboxes
 - [ ] 11 Custom Video Player
 - [ ] 12 Key Sequence Detection
