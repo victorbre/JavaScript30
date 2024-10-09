@@ -22,7 +22,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _quite nice, sounds familiar from old game dev tutorials._
 - [x] 09 Dev Tools Domination
   - _Good stuff to know. Didn't know a lot._
-- [ ] 10 Hold Shift and Check Checkboxes
+- [x] 10 Hold Shift and Check Checkboxes
+  - _I can read through it and understand but couldn't come up with a solution on my own._
 - [ ] 11 Custom Video Player
 - [ ] 12 Key Sequence Detection
 - [ ] 13 Slide in on Scroll
