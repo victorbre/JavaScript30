@@ -24,7 +24,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Good stuff to know. Didn't know a lot._
 - [x] 10 Hold Shift and Check Checkboxes
   - _I can read through it and understand but couldn't come up with a solution on my own._
-- [ ] 11 Custom Video Player
+- [x] 11 Custom Video Player
+  - _Getting elements, setting up functions, hooking up eventhandlers – and repeat! Great! Set up fullScreenToggle() too._
 - [ ] 12 Key Sequence Detection
 - [ ] 13 Slide in on Scroll
 - [ ] 14 JavaScript References vs Copying
