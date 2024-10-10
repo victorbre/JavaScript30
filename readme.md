@@ -26,7 +26,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _I can read through it and understand but couldn't come up with a solution on my own._
 - [x] 11 Custom Video Player
   - _Getting elements, setting up functions, hooking up eventhandlers – and repeat! Great! Set up fullScreenToggle() too._
-- [ ] 12 Key Sequence Detection
+- [x] 12 Key Sequence Detection
+  - _Feel like I'm starting to understand each section now, don't think I would be able to create this from stratch though._
 - [ ] 13 Slide in on Scroll
 - [ ] 14 JavaScript References vs Copying
 - [ ] 15 LocalStorage

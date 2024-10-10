@@ -1,12 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Key Detection</title>
-    <script type="text/javascript" src="./cornify.js"></script>
-    <link rel="icon" href="https://fav.farm/🔥" />
-  </head>
-  <body>
-    <script></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Key Detection</title>
+  <script type="text/javascript" src="./cornify.js"></script>
+  <link rel="icon" href="https://fav.farm/🔥" />
+</head>
+
+<body>
+  <script>
+
+    //Create your variables. We need to store the key presses in an array
+    // Also looking for a series of keyspressed (secretkey)
+    //Check for keyup event log 
+    //push the keys to the array (pressed.push(e.key))
+    //Keep the array to the size of the secretCode.lenght
+    //going over the pressed key from the back to the front
+    //if the joined (to put the array together into a string)
+    //if it includes the secretCode Do something 
+    const pressed = [];
+    const secretCode = 'victorbre';
+    window.addEventListener('keyup', (e) => {
+      console.log(e.key);
+      pressed.push(e.key);
+      //start from the back
+      pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+      if (pressed.join('').includes(secretCode)) {
+        console.log('DONE!');
+        cornify_add();
+      }
+      console.log(pressed);
+    });
+
+
+  </script>
+</body>
+
 </html>
