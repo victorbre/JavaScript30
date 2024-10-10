@@ -28,7 +28,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Getting elements, setting up functions, hooking up eventhandlers – and repeat! Great! Set up fullScreenToggle() too._
 - [x] 12 Key Sequence Detection
   - _Feel like I'm starting to understand each section now, don't think I would be able to create this from stratch though._
-- [ ] 13 Slide in on Scroll
+- [x] 13 Slide in on Scroll
+  - \_fun to see the approach from 2017. I think i've seen a lot of new features with scroll behaviours lately. Will try to recreate it using the newest methods.
 - [ ] 14 JavaScript References vs Copying
 - [ ] 15 LocalStorage
 - [ ] 16 Mouse Move Shadow
