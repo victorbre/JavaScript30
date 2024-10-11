@@ -30,7 +30,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Feel like I'm starting to understand each section now, don't think I would be able to create this from stratch though._
 - [x] 13 Slide in on Scroll
   - \_fun to see the approach from 2017. I think i've seen a lot of new features with scroll behaviours lately. Will try to recreate it using the newest methods.
-- [ ] 14 JavaScript References vs Copying
+- [x] 14 JavaScript References vs Copying
+  - _copying vs cloning arrays and objects, not sure I'm following_
 - [ ] 15 LocalStorage
 - [ ] 16 Mouse Move Shadow
 - [ ] 17 Sort Without Articles
