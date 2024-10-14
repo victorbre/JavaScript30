@@ -34,7 +34,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _copying vs cloning arrays and objects, not sure I'm following_
 - [x] 15 LocalStorage
   - _nice to explore the localstorage.. Added uncheckAll, checkAll and deleteAll. I'm sure there's better implementations._
-- [ ] 16 Mouse Move Shadow
+- [x] 16 Mouse Move Shadow
+  - _Mousemove css text shadow. Getting the idea of variables from the dom, adding an eventListener when XYZ. Then the function._
 - [ ] 17 Sort Without Articles
 - [ ] 18 Adding Up Times with Reduce
 - [ ] 19 Webcam Fun
