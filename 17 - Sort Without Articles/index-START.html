@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Sort Without Articles</title>
   <link rel="icon" href="https://fav.farm/🔥" />
 </head>
+
 <body>
 
   <style>
@@ -41,16 +43,41 @@
       color: #ffc600;
       text-decoration: none;
     }
-
   </style>
 
   <ul id="bands"></ul>
 
-<script>
-const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled', 'Say Anything', 'The Midway State', 'We Came as Romans', 'Counterparts', 'Oh, Sleeper', 'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'];
+  <script>
+    const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled', 'Say Anything', 'The Midway State', 'We Came as Romans', 'Counterparts', 'Oh, Sleeper', 'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'];
+
+    function strip(bandName) {
+      //need a space after the letters to make sure we don't take An... thermos.. asorted... for example.
+      return bandName.replace(/^(a |the |an )/i, '').trim();
+    }
+
+    //only using the strip in the if statment to keep the original but sort with the strip
+    const ordered = bands.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
+
+    // ordered.map((band, index) => {
+    //   // console.log(band);
+    //   const bandItem = document.createElement('li');
+    //   return listItems.appendChild(bandItem);
+    //   console.log(bandItem);
+    // });
+
+    document.querySelector('#bands').innerHTML =
+      ordered
+        .map(band => `<li>${band}</li>`)
+        //will include the commas between the li's
+        .join('');
+
+    console.table(ordered);
 
 
-</script>
+
+
+  </script>
 
 </body>
+
 </html>

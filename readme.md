@@ -29,14 +29,15 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 12 Key Sequence Detection
   - _Feel like I'm starting to understand each section now, don't think I would be able to create this from stratch though._
 - [x] 13 Slide in on Scroll
-  - \_fun to see the approach from 2017. I think i've seen a lot of new features with scroll behaviours lately. Will try to recreate it using the newest methods.
+  - _fun to see the approach from 2017. I think i've seen a lot of new features with scroll behaviours lately. Will try to recreate it using the newest methods._
 - [x] 14 JavaScript References vs Copying
   - _copying vs cloning arrays and objects, not sure I'm following_
 - [x] 15 LocalStorage
   - _nice to explore the localstorage.. Added uncheckAll, checkAll and deleteAll. I'm sure there's better implementations._
 - [x] 16 Mouse Move Shadow
   - _Mousemove css text shadow. Getting the idea of variables from the dom, adding an eventListener when XYZ. Then the function._
-- [ ] 17 Sort Without Articles
+- [x] 17 Sort Without Articles
+  - _Didn't manage without watching_
 - [ ] 18 Adding Up Times with Reduce
 - [ ] 19 Webcam Fun
 - [ ] 20 Speech Detection
