@@ -38,7 +38,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Mousemove css text shadow. Getting the idea of variables from the dom, adding an eventListener when XYZ. Then the function._
 - [x] 17 Sort Without Articles
   - _Didn't manage without watching_
-- [ ] 18 Adding Up Times with Reduce
+- [x] 18 Adding Up Times with Reduce
+  - _A simple couting mins + seconds in to a total time. Didn't do without watching_
 - [ ] 19 Webcam Fun
 - [ ] 20 Speech Detection
 - [ ] 21 Geolocation
