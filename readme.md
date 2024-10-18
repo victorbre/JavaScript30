@@ -42,7 +42,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _A simple couting mins + seconds in to a total time. Didn't do without watching_
 - [x] 19 Webcam Fun
   - _Cool to see the base64 for a jpeg_
-- [ ] 20 Speech Detection
+- [x] 20 Speech Detection
+  - _Really cool that it's built in. Worked quite well in Swedish too._
 - [ ] 21 Geolocation
 - [ ] 22 Follow Along Link Highlighter
 - [ ] 23 Speech Synthesis
