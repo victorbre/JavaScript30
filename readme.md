@@ -44,7 +44,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Cool to see the base64 for a jpeg_
 - [x] 20 Speech Detection
   - _Really cool that it's built in. Worked quite well in Swedish too._
-- [ ] 21 Geolocation
+- [x] 21 Geolocation
+  - _Good to get some phone stuff in to this_
 - [ ] 22 Follow Along Link Highlighter
 - [ ] 23 Speech Synthesis
 - [ ] 24 Sticky Nav
