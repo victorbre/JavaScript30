@@ -46,7 +46,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Really cool that it's built in. Worked quite well in Swedish too._
 - [x] 21 Geolocation
   - _Good to get some phone stuff in to this_
-- [ ] 22 Follow Along Link Highlighter
+- [x] 22 Follow Along Link Highlighter
+  - _Could get started without watching, not 100% on writing from scratch._
 - [ ] 23 Speech Synthesis
 - [ ] 24 Sticky Nav
 - [ ] 25 Event Capture, Propagation, Bubbling and Once
