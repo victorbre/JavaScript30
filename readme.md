@@ -48,7 +48,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Good to get some phone stuff in to this_
 - [x] 22 Follow Along Link Highlighter
   - _Could get started without watching, not 100% on writing from scratch._
-- [ ] 23 Speech Synthesis
+- [x] 23 Speech Synthesis
+  - _Really thought I could do it without watching. Barely got anywhere..._
 - [ ] 24 Sticky Nav
 - [ ] 25 Event Capture, Propagation, Bubbling and Once
 - [ ] 26 Stripe Follow Along Nav
