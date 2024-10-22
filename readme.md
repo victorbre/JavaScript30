@@ -50,7 +50,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Could get started without watching, not 100% on writing from scratch._
 - [x] 23 Speech Synthesis
   - _Really thought I could do it without watching. Barely got anywhere..._
-- [ ] 24 Sticky Nav
+- [x] 24 Sticky Nav
+  - _Nothing too complex here, but couldn't do it without watching._
 - [ ] 25 Event Capture, Propagation, Bubbling and Once
 - [ ] 26 Stripe Follow Along Nav
 - [ ] 27 Click and Drag
