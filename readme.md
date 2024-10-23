@@ -52,7 +52,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Really thought I could do it without watching. Barely got anywhere..._
 - [x] 24 Sticky Nav
   - _Nothing too complex here, but couldn't do it without watching._
-- [ ] 25 Event Capture, Propagation, Bubbling and Once
+- [x] 25 Event Capture, Propagation, Bubbling and Once
+  - _Best one in a while, really like going in to the functions and what you actually can do with stuff, like propegation and once_
 - [ ] 26 Stripe Follow Along Nav
 - [ ] 27 Click and Drag
 - [ ] 28 Video Speed Controller
