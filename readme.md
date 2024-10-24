@@ -55,7 +55,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 25 Event Capture, Propagation, Bubbling and Once
   - _Best one in a while, really like going in to the functions and what you actually can do with stuff, like propegation and once_
 - [x] 26 Stripe Follow Along Nav
-  - _Understood most but wouldn't have been able to write it myself_
+  - _Understood most but wouldn't have been able to write it myself.._
 - [ ] 27 Click and Drag
 - [ ] 28 Video Speed Controller
 - [ ] 29 Countdown Timer
