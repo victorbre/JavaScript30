@@ -56,7 +56,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Best one in a while, really like going in to the functions and what you actually can do with stuff, like propegation and once_
 - [x] 26 Stripe Follow Along Nav
   - _Understood most but wouldn't have been able to write it myself.._
-- [ ] 27 Click and Drag
+- [x] 27 Click and Drag
+  - _ simple concepts but great to practice._
 - [ ] 28 Video Speed Controller
 - [ ] 29 Countdown Timer
 - [ ] 30 Whack A Mole
