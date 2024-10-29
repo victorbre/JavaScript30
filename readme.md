@@ -58,6 +58,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Understood most but wouldn't have been able to write it myself.._
 - [x] 27 Click and Drag
   - _ simple concepts but great to practice._
-- [ ] 28 Video Speed Controller
-- [ ] 29 Countdown Timer
+- [x] 28 Video Speed Controller
+  - _Tried by myself but didn't manage to get it to work._
+- [x] 29 Countdown Timer
+  - _Really tried to get this going by myself, didn't complete it all the way but def progressing!_
 - [ ] 30 Whack A Mole
