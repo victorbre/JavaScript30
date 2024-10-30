@@ -62,4 +62,5 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
   - _Tried by myself but didn't manage to get it to work._
 - [x] 29 Countdown Timer
   - _Really tried to get this going by myself, didn't complete it all the way but def progressing!_
-- [ ] 30 Whack A Mole
+- [x] 30 Whack A Mole
+  - _That's it, I think I did't utilize this as to learn as much as I could have. Great course though!_
